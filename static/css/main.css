@@ -1,5 +1,7 @@
 /* Main page with stikky-footer
 -------------------------------------------------- */
+@import url(syntax.css);
+
 html,
 body {
   position: relative;
