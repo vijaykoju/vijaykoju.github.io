@@ -7,4 +7,4 @@ tags:
 - Greetings
 ---
 
-This is exciting. This is my first blog post. Nothing to write here. Just wanted to say hi!!! :)
+This is exciting.
